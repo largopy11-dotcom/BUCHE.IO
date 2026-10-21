@@ -1,0 +1,6 @@
+{
+  "name": "buche.io",
+  "description": "Red social de videos cortos de anime, comunidades de fans, interacción en tiempo real y medallas exclusivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
